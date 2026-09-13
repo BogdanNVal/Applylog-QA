@@ -4,7 +4,7 @@ Bugs I found while testing ApplyLog (live demo + reading the source). I use the 
 
 | ID | Summary | Severity | Status |
 |----|---------|----------|--------|
-| [BUG-001](BUG-001.md) | Auth hint says SQLite; app uses Postgres | Medium | Open |
+| [BUG-001](BUG-001.md) | Auth hint says SQLite; app uses Postgres | Medium | Closed |
 | [BUG-002](BUG-002.md) | Applied on picker allows future dates | Medium | Open |
 | [BUG-003](BUG-003.md) | Validation errors shown as raw Pydantic text | Low | Open |
 | [BUG-004](BUG-004.md) | Auth tabs missing aria-selected | Low | Open |
